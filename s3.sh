@@ -6,5 +6,5 @@ xxd -b letra.txt
 ls -l letra.txt
 # Cambiar a permisos 755 (rwx para dueño, r-x para grupo, r-x para otros)
 chmod 755 letra.txt
-# Verificar cambiols 
--l letra.txt
+# Verificar cambio
+ls -l letra.txt
