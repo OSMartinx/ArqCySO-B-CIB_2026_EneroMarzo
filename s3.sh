@@ -1,5 +1,5 @@
 # 1. Crear un archivo simple con la letra
-echo -n "Mensaje secreto" > letra.txt
+echo -n "a" > letra.txt
 # 2. Ver su representación en bits (usando xxd para volcado binario)
 xxd -b letra.txt
 # Ver permisos actuales (mira la primera columna, ej: -rw-r--r--)
